@@ -270,3 +270,11 @@ li.selected {
 .message.own {
     margin-left: 17.5%;
 }
+
+i {
+    font-size: 24px;
+    display: block;
+}
+br {
+    font-size: 24px;
+}
